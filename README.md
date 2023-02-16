@@ -2,6 +2,8 @@
 
 This is a simple todo application built using Flask.
 
+## Python version : 3.11.1
+
 ## Setup
 
 1. Clone the repository:
